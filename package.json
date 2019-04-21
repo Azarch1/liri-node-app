@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Azarch1/liri-node-app/issues"
   },
-  "homepage": "https://github.com/Azarch1/liri-node-app#readme"
+  "homepage": "https://github.com/Azarch1/liri-node-app#readme",
+  "dependencies": {
+    "spotify": "^0.3.0"
+  }
 }
